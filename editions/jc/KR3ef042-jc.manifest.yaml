@@ -1,0 +1,198 @@
+canonical_identifier: bkk:krp/KR3ef042/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef042/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒法祖
+  identifiers:
+    krp: KR3ef042
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef042.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef042_000-jc.yaml, hash: 'sha256:382fc0a8ecc52d1305a8082db4823e03bb83b4e02ac11119e4c83ab23575f385'}
+  - {seq: 1, filename: KR3ef042_001-jc.yaml, hash: 'sha256:e4e78a66fda4b0f2625075699fb7176bbca907e2ecf67b6597c9e8366d7717f5'}
+  - {seq: 3, filename: KR3ef042_003-jc.yaml, hash: 'sha256:4c14efcbee80832297f3316b70523648f2618603bb41c8e684e24ab2d099209b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef042_000-jc.markers.yaml, hash: 'sha256:282e305a8a69241bb419370dbfe0e929dc41786676ac06b11c902897df143ae8'}
+  - {seq: 1, role: markers, filename: assets/KR3ef042_001-jc.markers.yaml, hash: 'sha256:cc70f8e4a68a6e3fafbbe8d0ce069b767bed2e5bd237d8f44dfe67ea90846c69'}
+  - {seq: 3, role: markers, filename: assets/KR3ef042_003-jc.markers.yaml, hash: 'sha256:4232a93ac15a75e3057b6d7c16f21cfb1b33d04e3058b991b3e71ebef3a82c2b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ef042_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 299
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 14645
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 2200
+  label: 全論大法第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3d3
+    span:
+    - body
+    - 2200
+    - 5502
+  label: 六經正義第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3d4
+    span:
+    - body
+    - 5502
+    - 6317
+  label: 合併啟微第三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3d5
+    span:
+    - body
+    - 6317
+    - 9480
+  label: 風寒辨惑第四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3d6
+    span:
+    - body
+    - 9480
+    - 10780
+  label: 溫暑指歸第五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3d7
+    span:
+    - body
+    - 10780
+    - 12094
+  label: 痓濕異同第六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3d8
+    span:
+    - body
+    - 12094
+    - 14645
+  label: 平脈準繩第七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 19602
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 2833
+  label: 大陽病解第一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4d3
+    span:
+    - body
+    - 2833
+    - 6079
+  label: 陽明病解第二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4d4
+    span:
+    - body
+    - 6079
+    - 8707
+  label: 少陽病解第三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4d5
+    span:
+    - body
+    - 8707
+    - 10251
+  label: 太陰病解第四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4d6
+    span:
+    - body
+    - 10251
+    - 12690
+  label: 少陰病解第五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4d7
+    span:
+    - body
+    - 12690
+    - 15292
+  label: 厥陰病解第六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4d8
+    span:
+    - body
+    - 15292
+    - 19602
+  label: 制方大法第七
+  type: section
+  level: 2
+hash: sha256:628cea4373c576eec483793c7ffe5af13cf58403f04ced1aefa470993c6d2a27

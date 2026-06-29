@@ -1,0 +1,201 @@
+canonical_identifier: bkk:krp/KR3ef042/v1
+canonical_location: https://kanripo.org/bkk/KR3ef042/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷寒法祖
+  identifiers:
+    krp: KR3ef042
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef042.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef042_000.yaml, hash: 'sha256:b536b321b17b538ffbe36c9e22d87d3e8f7348d6738d895190d2d3f69c08cbc4'}
+  - {seq: 1, filename: KR3ef042_001.yaml, hash: 'sha256:4817d4a08c93b7e0448e6097a659854520334fa99498f622bc8ebaeef7a94473'}
+  - {seq: 3, filename: KR3ef042_003.yaml, hash: 'sha256:954606cc2d56d63214fab23eb116260e9aa7a2a60057a469706dd08af86264f0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef042_000.markers.yaml, hash: 'sha256:452d01fd5ea5f8a383e386f1385079b7237b2860bc8744869c8271136c6ab1bf'}
+  - {seq: 1, role: markers, filename: assets/KR3ef042_001.markers.yaml, hash: 'sha256:ee8dab6e8c7aae0a272eb231c9612f0f5533f4de6efcdf885be3877e8df7ffdd'}
+  - {seq: 3, role: markers, filename: assets/KR3ef042_003.markers.yaml, hash: 'sha256:635c5cea36f6d41cf6318a480f908a0175b06ebcf56cce4a95c96a25e707d972'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ef042_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 299
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 14645
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 2200
+  label: 全論大法第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3d3
+    span:
+    - body
+    - 2200
+    - 5502
+  label: 六經正義第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3d4
+    span:
+    - body
+    - 5502
+    - 6317
+  label: 合併啟微第三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3d5
+    span:
+    - body
+    - 6317
+    - 9480
+  label: 風寒辨惑第四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3d6
+    span:
+    - body
+    - 9480
+    - 10780
+  label: 溫暑指歸第五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3d7
+    span:
+    - body
+    - 10780
+    - 12094
+  label: 痓濕異同第六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef042_jc_001-d3d8
+    span:
+    - body
+    - 12094
+    - 14645
+  label: 平脈準繩第七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 19602
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 2833
+  label: 大陽病解第一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4d3
+    span:
+    - body
+    - 2833
+    - 6079
+  label: 陽明病解第二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4d4
+    span:
+    - body
+    - 6079
+    - 8707
+  label: 少陽病解第三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4d5
+    span:
+    - body
+    - 8707
+    - 10251
+  label: 太陰病解第四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4d6
+    span:
+    - body
+    - 10251
+    - 12690
+  label: 少陰病解第五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4d7
+    span:
+    - body
+    - 12690
+    - 15292
+  label: 厥陰病解第六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef042_jc_003-d4d8
+    span:
+    - body
+    - 15292
+    - 19602
+  label: 制方大法第七
+  type: section
+  level: 2
+hash: sha256:2d41899adeed33f73512f30de9a136118c90cee80ce762cff505f0ba427fbbf6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
