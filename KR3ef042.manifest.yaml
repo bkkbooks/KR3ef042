@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ef042/v1
 canonical_location: https://kanripo.org/bkk/KR3ef042/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傷寒法祖
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef042_000.yaml, hash: 'sha256:382fc0a8ecc52d1305a8082db4823e03bb83b4e02ac11119e4c83ab23575f385'}
-  - {seq: 1, filename: KR3ef042_001.yaml, hash: 'sha256:e4e78a66fda4b0f2625075699fb7176bbca907e2ecf67b6597c9e8366d7717f5'}
-  - {seq: 3, filename: KR3ef042_003.yaml, hash: 'sha256:4c14efcbee80832297f3316b70523648f2618603bb41c8e684e24ab2d099209b'}
+  - {seq: 0, filename: KR3ef042_000.yaml, hash: 'sha256:2ce04f0376ce8c47f66c824e9d54a0417044e633226c4f010dab43b53e416ff2'}
+  - {seq: 1, filename: KR3ef042_001.yaml, hash: 'sha256:d8adba3a6501ad1143465e26418274bcf820914c727d652e1ce7f7ab29c16757'}
+  - {seq: 3, filename: KR3ef042_003.yaml, hash: 'sha256:141755d8bed60b925c6ac8b2f9caf5cd39c4b5fc3f1880799fed3aaa3089c6fd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef042_000.markers.yaml, hash: 'sha256:6a72441310f545ba8acda85e6e5cf7990e81f7fdc86c5a5f2d93ad7fc31237d4'}
-  - {seq: 1, role: markers, filename: assets/KR3ef042_001.markers.yaml, hash: 'sha256:7eb7a9ec4155ced6026002332cbb29e3c8f272b1c82ecd2be1af67dc4423d128'}
-  - {seq: 3, role: markers, filename: assets/KR3ef042_003.markers.yaml, hash: 'sha256:d2e474ee84b67e4aaecc89337461c32af43db819cc4aa05d38b4e9fab9e2f09d'}
+  - {seq: 0, role: markers, filename: assets/KR3ef042_000.markers.yaml, hash: 'sha256:c4c1dd549abf81a611cbf10122645fe997fff07c182017f70f049403d19ca25a'}
+  - {seq: 1, role: markers, filename: assets/KR3ef042_001.markers.yaml, hash: 'sha256:542287a2d5421e52dabbd60a5e31d4cd464848993558207de16dd75dd8f32a3b'}
+  - {seq: 3, role: markers, filename: assets/KR3ef042_003.markers.yaml, hash: 'sha256:6879d118aeddd6800ab412eca55d5b1d60a87f4badc4501be57443a0a3312849'}
 table_of_contents:
 - ref:
     seq: 0
@@ -195,4 +195,7 @@ table_of_contents:
   label: 制方大法第七
   type: section
   level: 2
-hash: sha256:66fd8b954736c6e3ce57f7cf559d5bbcc84b21a9b5918acb95e3d955ed197312
+hash: sha256:b58465fe39ba6841d38cda29684170d5ceffc598ac9b9d63b057170767bbffde
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
