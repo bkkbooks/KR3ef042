@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3ef042/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 序嘗思著書立說必胸羅萬卷筆無點塵方能成一家言後之人讀古人書亦必與古人心心相印乃能言之不謬慈溪柯韻伯先生注張仲景傷寒論六卷復自著傷寒論翼二卷闡未發之藏探獨得之秘其明辨詳晰使仲景千古不明之案一旦豁然而後世觀柯氏之注論知仲景之精微其功德為何如也但流傳已廣翻刻既多其文義字句類多魚豕觀者未得洞明咸置高閣吾師任䳄鴻波先生出其先祖越菴公手鈔傷寒法祖一編視之即柯氏之論翼惟於錯訛之處細加校正去繁從簡悉已正定無瑕予因抄而讀之見其分經立論並遵柯氏凡業此者當細心領會得其精義庶涇渭區分自有定見可無擔頭篋里之弊矣嗚呼柯氏為仲景功臣任氏於柯氏之功亦豈少哉爰書以志之道光二十二年歲在壬寅仲春上瀚識於鋤經山房後學清四陶觀永謹識
   hash: sha256:42f4aedace6aa066b0d70690aae2f2072babb44979d95d25abed7adb4234579c
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3ef042_jc_000-d2.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 傷寒法祖
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3ef042.xml
-hash: sha256:382fc0a8ecc52d1305a8082db4823e03bb83b4e02ac11119e4c83ab23575f385
+hash: sha256:b5085644b3649554fab4f4739d4d1f04799143b6336c04148d3b02ba924b862c

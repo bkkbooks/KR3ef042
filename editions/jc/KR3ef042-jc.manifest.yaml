@@ -17,11 +17,11 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ef042_000-jc.yaml, hash: 'sha256:382fc0a8ecc52d1305a8082db4823e03bb83b4e02ac11119e4c83ab23575f385'}
+  - {seq: 0, filename: KR3ef042_000-jc.yaml, hash: 'sha256:b5085644b3649554fab4f4739d4d1f04799143b6336c04148d3b02ba924b862c'}
   - {seq: 1, filename: KR3ef042_001-jc.yaml, hash: 'sha256:e4e78a66fda4b0f2625075699fb7176bbca907e2ecf67b6597c9e8366d7717f5'}
   - {seq: 3, filename: KR3ef042_003-jc.yaml, hash: 'sha256:4c14efcbee80832297f3316b70523648f2618603bb41c8e684e24ab2d099209b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef042_000-jc.markers.yaml, hash: 'sha256:282e305a8a69241bb419370dbfe0e929dc41786676ac06b11c902897df143ae8'}
+  - {seq: 0, role: markers, filename: assets/KR3ef042_000-jc.markers.yaml, hash: 'sha256:b4f9cbe502c127c0c1421b5cd2c462ae4accaebcff27ba4c86525f535befc487'}
   - {seq: 1, role: markers, filename: assets/KR3ef042_001-jc.markers.yaml, hash: 'sha256:cc70f8e4a68a6e3fafbbe8d0ce069b767bed2e5bd237d8f44dfe67ea90846c69'}
   - {seq: 3, role: markers, filename: assets/KR3ef042_003-jc.markers.yaml, hash: 'sha256:4232a93ac15a75e3057b6d7c16f21cfb1b33d04e3058b991b3e71ebef3a82c2b'}
 table_of_contents:
@@ -29,7 +29,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ef042_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 299
   label: 序
@@ -195,4 +195,4 @@ table_of_contents:
   label: 制方大法第七
   type: section
   level: 2
-hash: sha256:628cea4373c576eec483793c7ffe5af13cf58403f04ced1aefa470993c6d2a27
+hash: sha256:9b3f34575cf5105d8e4251485a482c92117b9625e62f7a3f4e79099adc151921
